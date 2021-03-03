@@ -39,4 +39,4 @@
 </table>
 
 <h2>Esclarecimentos</h2>
-<p>Estou em contante aprendizado, tanto em tecnologias de programação, quanto como experiência pessoal, criando novos projetos para testar e aprender novas tecnologias.</p>
+<p>Estou em contante aprendizado, tanto em tecnologias de programação, quanto como experiência pessoal, criando novos projetos para testar e aprender coisas novas.</p>
