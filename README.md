@@ -28,6 +28,7 @@
             </td>
             <td>
                 <img src='./img/react-native.svg'/>
+                <img src='./img/nextjs.svg'/>
                 <img src='./img/mongodb.svg'/>
                 <img width='50x' src='./img/github.svg'/>
             </td>
