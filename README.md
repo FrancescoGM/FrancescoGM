@@ -32,7 +32,8 @@
                 <img src='./img/mongodb.svg'/>
                 <img width='50x' src='./img/github.svg'/>
             </td>
-                <td>
+            <td>
+                <img  src='./img/docker.svg'/>
                 <img width='100px' src='./img/grpc.svg'/>
             </td>
         </tr>
