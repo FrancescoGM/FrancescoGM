@@ -2,7 +2,7 @@
 <h2>Eu sou um desenvolvedor fullstack focado na stack javascript.</h2>
 
 <ul>
-    <li>👨‍💼 Eu atualmente trabalho na Automafour.</li>
+    <li>👨‍💼 Atualmente estou buscando novas oportunidades.</li>
     <li>🖥 Eu estou focado em aprender NextJS.</li>
     <li>🛠 No tempo livre gosto de testar novas tecnologias e projetos pessoais.</li>
 </ul>
