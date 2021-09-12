@@ -3,7 +3,7 @@
 
 <ul>
     <li>🐱‍🏍 Atualmente estudando as bases de algoritmos e estruturas de dados.</li>
-    <li>🖥 Meu framework favorito em front end é é o NextJS.</li>
+    <li>🖥 Meu framework favorito em front end é o NextJS.</li>
     <li>🛠 No tempo livre gosto de testar novas tecnologias e projetos pessoais.</li>
 </ul>
 
