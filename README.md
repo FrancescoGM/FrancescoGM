@@ -1,9 +1,9 @@
 <h1>👋 Olá! Sou Francesco Müller</h1>
-<h2>Eu sou um desenvolvedor fullstack focado na stack javascript.</h2>
+<h2>Eu sou um desenvolvedor front end.</h2>
 
 <ul>
-    <li>👨‍💼 Atualmente estou buscando novas oportunidades.</li>
-    <li>🖥 Eu estou focado em aprender NextJS.</li>
+    <li>🐱‍🏍 Atualmente estudando as bases de algoritmos e estruturas de dados.</li>
+    <li>🖥 Meu framework favorito em front end é é o NextJS.</li>
     <li>🛠 No tempo livre gosto de testar novas tecnologias e projetos pessoais.</li>
 </ul>
 
