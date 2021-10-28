@@ -15,9 +15,9 @@
 const whoAmI = {
   fullName: "Francesco Gonzalez Muller",
   role: "front-end",
-  favoriteDrink: "Café",
-  favoriteFood: "Pizza",
-  favoriteMusicGenre: ["Rock", "Eletro"],
+  favoriteDrink: "coffee",
+  favoriteFood: "pizza",
+  favoriteMusicGenre: ["rock", "eletro"],
   workingAt: "Bitspace solutions",
   bornedAt: "09-11-2001",
 };
