@@ -50,6 +50,8 @@ const whoAmI = {
             </td>
             <td>
                 <img src='./img/react-native.svg' alt='react native'/>
+                <img src='./img/redux.svg' alt='redux'/>
+                <img src='./img/graphql.svg' alt='graphql'/>
             </td>
         </tr>
     </tbody>
