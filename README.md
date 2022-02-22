@@ -6,7 +6,7 @@
 
 <a href="https://www.linkedin.com/in/francescogm/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-- 🐱‍🏍 Atualmente estudando as bases de algoritmos e estruturas de dados.
+- 🐱 Atualmente estudando as bases de algoritmos e estruturas de dados.
 - 🖥 Meu framework favorito em front end é o NextJS.
 - 🛠 No tempo livre gosto de testar novas tecnologias e projetos pessoais.
 - 🎮 Gosto de jogar um lolzinho ou um MMORPG nas horas livres.
@@ -14,20 +14,14 @@
 ```javascript
 const whoAmI = {
   fullName: "Francesco Gonzalez Muller",
-  role: "front-end",
+  role: "Front-End",
   favoriteDrink: "coffee",
   favoriteFood: "pizza",
   favoriteMusicGenre: ["rock", "eletro"],
-  workingAt: "Bitspace solutions",
+  workingAt: null,
   bornedAt: "09-11-2001",
 };
-
-function getAmbitions() {
-  return ["liveAbroad", "workInABigCompany"];
-}
 ```
-
-Adoro café e escutar um rock, tenho 20 anos e estou sempre aberto para ajudar quem precisar, Moro no interior do RS e meu grande
 
 ## Tecnologias Conhecidas
 
@@ -36,7 +30,7 @@ Adoro café e escutar um rock, tenho 20 anos e estou sempre aberto para ajudar q
         <tr>
             <th>Experiente</th>
             <th>Aprendendo</th>
-            <th>Testando e Conhecendo</th>
+            <th>Tenho interesse em</th>
         </tr>
     </thead>
     <tbody>
@@ -45,25 +39,20 @@ Adoro café e escutar um rock, tenho 20 anos e estou sempre aberto para ajudar q
                 <img src='./img/reactjs.svg' alt='reactjs'/>
                 <img src='./img/html5.svg' alt='html5'/>
                 <img src='./img/css3.svg' alt='css3'/>
-                <img src='./img/node.svg' alt='node'/>
                 <img src='./img/typescript.svg' alt='typescript'/>
                 <img src='./img/javascript.svg' alt='javascript'/>
                 <img src='./img/nextjs.svg' alt='nextjs'/>
             </td>
             <td>
-                <img src='./img/react-native.svg' alt='react native'/>
-                <img src='./img/mongodb.svg' alt='mongodb'/>
-                <img width='50x' src='./img/github.svg' alt='github'/>
+                <img src='./img/node.svg' alt='node'/>
+                <img width='50x' src='./img/git.svg' alt='git'/>
+                <img  src='./img/docker.svg' alt='docker'/>
             </td>
             <td>
-                <img  src='./img/docker.svg' alt='docker'/>
+                <img src='./img/react-native.svg' alt='react native'/>
             </td>
         </tr>
     </tbody>
 </table>
-
-## Esclarecimentos
-
-Estou em contante aprendizado, tanto em tecnologias de programação, quanto como experiência pessoal, criando novos projetos para testar e aprender coisas novas.
 
 <img src='./img/gatinho.gif' alt='gatinho' width='100%'/>
