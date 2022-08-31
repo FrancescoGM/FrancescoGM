@@ -9,16 +9,16 @@
 - 🐱 Atualmente estudando as bases de algoritmos e estruturas de dados.
 - 🖥 Meu framework favorito em front end é o NextJS.
 - 🛠 No tempo livre gosto de testar novas tecnologias e projetos pessoais.
-- 🎮 Gosto de jogar um lolzinho ou um MMORPG nas horas livres.
+- 🎮 Gosto de jogar um valorant ou um MMORPG nas horas livres.
 
 ```javascript
 const whoAmI = {
   fullName: "Francesco Gonzalez Muller",
-  role: "Front-End",
+  role: "front-end",
   favoriteDrink: "coffee",
   favoriteFood: "pizza",
   favoriteMusicGenre: ["rock", "eletro"],
-  workingAt: null,
+  workingAt: "MadeiraMadeira",
   bornedAt: "09-11-2001",
 };
 ```
