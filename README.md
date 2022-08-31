@@ -17,7 +17,7 @@ const whoAmI = {
   role: "front-end",
   favoriteDrink: "coffee",
   favoriteFood: "pizza",
-  favoriteMusicGenre: ["rock", "eletro"],
+  favoriteMusicGenre: ["rock", "phonk", "funk"],
   workingAt: "MadeiraMadeira",
   bornedAt: "09-11-2001",
 };
